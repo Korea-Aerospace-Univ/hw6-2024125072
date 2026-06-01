@@ -27,7 +27,7 @@ int main(void)
         i++;
     }
     for (p3 = arr3; p3 < arr3 + N; p3++) {
-        printf("%d ", *p3);
+        printf(" %d", *p3);
     }
 
     return 0;
